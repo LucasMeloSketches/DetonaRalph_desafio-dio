@@ -13,6 +13,7 @@ Nesse jogo você precisa clicar no Ralph, que aparece aleatóriamente nas janela
 Seu desafio é conseguir o maximo de pontos dentro do tempo!
 
 Para jogar é só abrir esse repositório no Github Pages:
+[Detona Ralph JavaScript](https://lucasmelosketches.github.io/DetonaRalph_desafio-dio/)
 
 
 
